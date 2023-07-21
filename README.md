@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dwij Patel</h1>
-<h3 align="center">A passionate developer and a curious kid from India</h3>
+<h3 align="center">A passionate developer and a curious student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwij1704&label=Profile%20views&color=0e75b6&style=flat" alt="dwij1704" /> </p>
 
