@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Java**
 
-- 📫 How to reach me **dwijpatel1704@gmail.com**
+- 📫 How to reach me **dwijptl.dev@gmail.com**
 
 - 📄 Know about my experiences [https://dwij1704.github.io/Resume%20Final%20Draft.pdf](https://dwij1704.github.io/Resume%20Final%20Draft.pdf)
 
