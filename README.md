@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **dwijptl.dev@gmail.com**
 
-- 📄 Know about my experiences [https://dwij1704.github.io/Resume.pdf](https://dwij1704.github.io/Resume.pdf)
-
 - ⚡ Fun fact **The Shortcut Guy**
 
 <h3 align="left">Connect with me:</h3>
