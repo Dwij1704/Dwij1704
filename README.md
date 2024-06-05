@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dwij Patel</h1>
+<h1 align="center">Hi 👋, I'm Fenil Faldu</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://dwij1704.github.io/](https://dwij1704.github.io/)
