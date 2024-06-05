@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://dwij1704.github.io/](https://dwij1704.github.io/)
 
-- 📫 How to reach me **dwijptl.dev@gmail.com**
-
 - ⚡ Fun fact **The Shortcut Guy**
 
 <h3 align="left">Connect with me:</h3>
